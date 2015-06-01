@@ -1,6 +1,7 @@
-hello-world
-===========
+#include <stdio.h>
 
-Mein erste repository auf Github!
-
-Ich mag :coffee:, :pizza:, and :dancer:.
+int main(void)
+{
+printf{"hello world\n");
+return 0;
+}
